@@ -3,8 +3,8 @@ body {
   --scale: 3;
   /* TIPO DE TEXTO */
   font-family: 'Roboto', sans-serif;
-  /* quitar escrol */
-  overflow: hidden;
+  /* quitar escrol y */
+  overflow-y: hidden;
   margin: 0;
   padding: 0;
   /* Color del texto */
