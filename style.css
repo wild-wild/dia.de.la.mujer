@@ -3,6 +3,16 @@ body {
   --scale: 3;
   /* TIPO DE TEXTO */
   font-family: 'Roboto', sans-serif;
+  /* quitar escrol */
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  /* Color del texto */
+  font-size: 2em;
+
+
+
+
 }
 
 svg.root {
@@ -15,7 +25,7 @@ svg.root {
 svg {
   width: 100vw;
   height: 100vh;
-  background: #e0cae0;
+  background: #fdf5f0;
   fill-opacity: 0.75;
 }
 
